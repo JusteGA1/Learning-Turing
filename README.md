@@ -16,7 +16,7 @@ This repository is for learning purposes only. Hopefully to receive more exercis
 ## Code Examples
 ```python
 @seats_count.setter
-def seats_count(self, new_seat_number: int) -> int:
+def seats_count(self, new_seat_number: int):
     if new_seat_number < 2:
         new_seat_number = 5
     self.__seats_count = new_seat_number
