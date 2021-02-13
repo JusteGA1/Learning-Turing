@@ -1,5 +1,5 @@
 import pytest
-from tesla import Tesla
+from tesla.factory import Tesla
 
 
 @pytest.fixture
