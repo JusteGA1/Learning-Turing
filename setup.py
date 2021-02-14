@@ -7,6 +7,6 @@ setup(
     author='Juste Gaviene',
     author_email='juste.gaviene@gmail.com',
     url='https://github.com/JusteGA1/Learning-Turing',
-    packages=['tesla.factory'],
+    packages=['tesla'],
     package_dir={'': 'Learning-Turing'},
 )
